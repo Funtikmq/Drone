@@ -1,4 +1,4 @@
-"""Motor test: spin ALL motors at once (ArduCopter), on the bench, WITHOUT PROPELLERS.
+"""Motor test (run standalone with: python -m motors.motor_test): spin ALL motors at once (ArduCopter), on the bench, WITHOUT PROPELLERS.
 
 How it works: set STABILIZE mode, arm, and send RC override on channel 3
 (throttle). ArduPilot's MAVLink motor test cannot spin several motors at

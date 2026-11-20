@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Receives audio frames from the Pi, prints levels and optionally saves a WAV.
 
-Packet format must match pi/communication.py.
+Packet format must match pi/communication/packet.py.
 """
 from __future__ import annotations
 
