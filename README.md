@@ -57,8 +57,8 @@ independently as long as it keeps the same methods.
 
 | File | Owner |
 |---|---|
-| `pi/noise_filter/` | colleague |
-| `pi/motors/`, `pi/audio_capture/`, `pi/communication/`, `desktop/` | me |
+| `pi/noise_filter/` | Mateia |
+| `pi/motors/`, `pi/audio_capture/`, `pi/communication/`, `desktop/` | Slava |
 | `pi/interfaces.py`, `pi/run.py`, `pi/config.py` | shared (change only by agreement) |
 
 ## Git workflow
