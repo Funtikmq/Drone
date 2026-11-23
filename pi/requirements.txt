@@ -1,4 +1,11 @@
-numpy
-sounddevice
-dronekit
-pymavlink
+cffi==2.1.1
+dronekit==2.9.2
+fastcrc==0.5.0
+future==1.0.0
+lxml==6.1.3
+monotonic==1.6
+numpy==2.5.5
+pycparser==3.12
+pymavlink==2.4.50
+pyserial==3.5
+sounddevice==0.5.6
