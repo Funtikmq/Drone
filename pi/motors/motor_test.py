@@ -22,7 +22,7 @@ from pymavlink import mavutil
 
 import config
 
-MAX_THROTTLE_PERCENT = 40     # safety limit; raise only if needed
+MAX_THROTTLE_PERCENT = 50     # safety limit; raise only if needed
 MAX_DURATION_SEC = 30
 RAMP_SEC = 1.0                # smooth throttle ramp-up
 SEND_RATE_HZ = 10             # RC override must be resent often (RC_OVERRIDE_TIME)
